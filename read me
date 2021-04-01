@@ -1,0 +1,8 @@
+This app helps in emergency case during vehicle accident it immidiately informing your emergency contacts about your location by sending them SMS
+
+various resources used:
+LocationFinder.java from https://droidbyme.medium.com/get-current-location-using-gps-network-provider-d2915f2ec7a5
+sensormanager      https://developer.android.com/reference/android/hardware/SensorManager.html
+                  https://stackoverflow.com/questions/24732756/how-to-run-a-background-service-in-android-to-use-accelerometer
+                  
+services     https://developer.android.com/guide/components/services#java
