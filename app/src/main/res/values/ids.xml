@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="about" type="id" />
+    <item name="edit" type="id" />
+    <item name="servicestop" type="id" />
+    <item name="exit" type="id" />
+</resources>
